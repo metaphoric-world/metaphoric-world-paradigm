@@ -1,0 +1,13 @@
+license_standard.txt
+
+This license applies to all documents and files located in the folder standard/.
+
+The files in this folder are licensed under CC‑BY‑NC.
+
+Commercial use, including but not limited to implementation in products, services, software systems, or commercial research, is prohibited without an explicit written license or certification agreement.
+
+Redistribution of modified or unmodified versions of the documents in standard/ is permitted only under this same license.
+
+This license grants no rights to implement, certify, or claim compliance with the standard. Such rights require a separate agreement.
+
+Any use of trademarks associated with this standard requires separate permission and is not covered by this license.
