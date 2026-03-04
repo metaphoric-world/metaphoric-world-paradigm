@@ -86,7 +86,7 @@ Each file also includes a descriptive title for external readability.
 
 3. License
 
-This work is licensed under the Creative Commons Attribution‑ShareAlike 4.0 International License (CC BY‑SA 4.0).  
+This work (except documents in the folder standard, see license_standard.txt) is licensed under the Creative Commons Attribution‑ShareAlike 4.0 International License (CC BY‑SA 4.0).  
 https://creativecommons.org/licenses/by-sa/4.0/
 
 ---
