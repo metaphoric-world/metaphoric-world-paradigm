@@ -3,6 +3,8 @@
 
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.20778326.svg)](https://doi.org/10.5281/zenodo.20778326)
 
+A formal topological framework describing how meaning emerges across language, cognition, culture, and social systems.
+
 This file belongs to and describes the second release of The Metaphoric World.
 
 ## Overview
