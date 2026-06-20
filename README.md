@@ -1,6 +1,8 @@
 
 # Metaphoric World - Version 2
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.20778326.svg)](https://doi.org/10.5281/zenodo.20778326)
+
 This file belongs to and describes the second release of The Metaphoric World.
 
 ## Overview
@@ -40,8 +42,7 @@ https://creativecommons.org/licenses/by-sa/4.0/
 
 ## Citation
 
-Please cite as: Tobias, The Metaphoric World, Version 2.
-DOI 10.5281/zenodo.20778326
+Please cite as: Tobias, The Metaphoric World, Version 2
 
 When referring to this version, you may optionally use the short form "MW2".
 This abbreviation is provided solely for convenience. No trademark search has been performed, and any existing trademarks remain fully respected.
