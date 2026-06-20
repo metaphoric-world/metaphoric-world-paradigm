@@ -5,6 +5,8 @@
 
 A formal topological framework describing how meaning emerges across language, cognition, culture, and social systems.
 
+Keywords: meaning-formation, topology, systems-theory, cognition, semantics, conceptual-framework
+
 This file belongs to and describes the second release of The Metaphoric World.
 
 ## Overview
